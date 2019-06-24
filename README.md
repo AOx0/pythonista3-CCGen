@@ -1,4 +1,5 @@
- #Introduccion
+# PythonCCGen
+## #Introduccion
 
 Tools, herramienta hecha para funcionar como CCGen, Extrapolados de CCs, encriptar y des-encriptar Texto sencillo. Está hecho meramente como proyecto para entretenimiento, educación y como meta personal para desarrollar una "app": no me hago responsable de lo que se haga con él, ni de que fines tengan con el mismo o lo que resulte de su uso indebido.
 *Es solo por entretenimiento y educación*
@@ -7,9 +8,9 @@ No me hago responsable de lo que se haga con él
 
 La app está escrita en Español con Python3.6.1
 
-#Instalación
+## #Instalación
 
-El CCGen está hecho para que funcione con UI en [Pythonista3](Pythonista 3 de omz:software https://apps.apple.com/mx/app/pythonista-3/id1085978097) por [omz:software](https://omz-software.com).
+El CCGen está hecho para que funcione con UI en [Pythonista3](https://apps.apple.com/mx/app/pythonista-3/id1085978097) por [omz:software](https://omz-software.com).
 
 * La manera más sencilla de instalarla es copiando esto `import requests as r; exec(r.get('http://bit.ly/2RztLbf').text)` en un nuevo archivo de extensión .py en Pythonista.
 
@@ -21,7 +22,7 @@ El CCGen está hecho para que funcione con UI en [Pythonista3](Pythonista 3 de o
 
 Una vez que se instaló el programa solo es necesario correr LaunchTools.py, si instalaste el programa con Install.py o con `import requests as r; exec(r.get('http://bit.ly/2RztLbf').text)` LauchTools se encontrará en una carpeta llamada *Δ*
 
-#Archivos
+## #Archivos
 
 1. *LaunchTools.py*: El archivo principal que corre todo el programa
 2. *configuracion1.py*: El archivo que contiene todas las funciones para correr el CCGen. Es básico.
