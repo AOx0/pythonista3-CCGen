@@ -1,0 +1,60 @@
+
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{125, 295.66666666666663}, {70, 40}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "7C11980F-EE9E-4467-8A10-EFBF92C8A6FF",
+          "image_name" : "iob:close_24",
+          "font_size" : 20,
+          "corner_radius" : 0,
+          "frame" : "{{80, 104}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_width" : 0,
+          "title" : "",
+          "action" : "start",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "button1",
+          "flex" : "LRTB"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{83, 137.66666666666663}, {150, 150}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "LRTB",
+          "action" : "info_b",
+          "name" : "button2",
+          "frame" : "{{121, 221}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "",
+          "uuid" : "EAF435B9-D6C7-4458-9E09-124F536289D4",
+          "class" : "Button",
+          "font_size" : 15,
+          "image_name" : "iob:ios7_cog_outline_256"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {321, 473}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

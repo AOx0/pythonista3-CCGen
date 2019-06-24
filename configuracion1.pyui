@@ -1,0 +1,121 @@
+
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 26}, {334, 45}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "575C226B-9CEE-43F1-AF53-E93E88ED4F39",
+          "font_size" : 17,
+          "corner_radius" : 10,
+          "frame" : "{{95, 178}, {200, 200}}",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "editable" : true,
+          "border_width" : 1,
+          "custom_attributes" : "",
+          "alignment" : "center",
+          "autocorrection_type" : "no",
+          "text" : "",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "font_name" : "<System>",
+          "spellchecking_type" : "no",
+          "class" : "TextView",
+          "name" : "textview1",
+          "flex" : "W"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 79}, {128, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "E5E8E967-3A83-4410-B918-2873AC326B48",
+          "font_size" : 15,
+          "corner_radius" : 5,
+          "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{155, 262}, {80, 32}}",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_width" : 1,
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Generar",
+          "action" : "addbutton_tapped",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "button1",
+          "flex" : "W"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 119}, {332, 378}}",
+        "class" : "TableView",
+        "attributes" : {
+          "uuid" : "ECD05B24-CA90-46AE-8E08-0D18841AC5E2",
+          "editing" : false,
+          "corner_radius" : 10,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{95, 178}, {200, 200}}",
+          "data_source_items" : "CCs Generadas:",
+          "data_source_number_of_lines" : 1,
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_width" : 1,
+          "data_source_move_enabled" : true,
+          "alpha" : 1,
+          "data_source_delete_enabled" : true,
+          "data_source_font_size" : 18,
+          "row_height" : 40,
+          "class" : "TableView",
+          "name" : "table",
+          "flex" : "WH"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{236, 79}, {128, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "75D8B824-BBF1-4027-87A4-ED85A7C48A09",
+          "font_size" : 15,
+          "corner_radius" : 5,
+          "background_color" : "RGBA(0.505447,0.505447,0.505447,1.000000)",
+          "frame" : "{{155, 262}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "border_width" : 0,
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "Copy",
+          "action" : "copy_ccs",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "button2",
+          "flex" : "W"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {392, 503}}",
+    "class" : "View",
+    "attributes" : {
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "CCGen",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

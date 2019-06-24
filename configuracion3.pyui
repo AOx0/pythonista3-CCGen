@@ -1,0 +1,119 @@
+
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{22, 25}, {241, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "39C6AF88-B7B1-4782-8893-35924063F9DF",
+          "font_size" : 15,
+          "corner_radius" : 5,
+          "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{103, 153}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "border_width" : 1,
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "Generar",
+          "action" : "main",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "button1",
+          "flex" : "WB"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{22, 105}, {115, 100}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "5FBCB733-3CB5-4D8F-BE4B-647424100A03",
+          "font_size" : 17,
+          "corner_radius" : 10,
+          "frame" : "{{43, 69}, {200, 200}}",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "editable" : true,
+          "border_width" : 1,
+          "custom_attributes" : "",
+          "alignment" : "center",
+          "autocorrection_type" : "no",
+          "text" : "",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "font_name" : "<System>",
+          "spellchecking_type" : "no",
+          "class" : "TextView",
+          "name" : "textview1",
+          "flex" : "WHR"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{148, 105}, {115, 100}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "E89D4BB3-5C4F-4CDA-A0FF-E9B0A9F06231",
+          "font_size" : 17,
+          "corner_radius" : 10,
+          "frame" : "{{43, 69}, {200, 200}}",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "editable" : true,
+          "border_width" : 1,
+          "custom_attributes" : "",
+          "alignment" : "center",
+          "autocorrection_type" : "no",
+          "text" : "",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "font_name" : "<System>",
+          "spellchecking_type" : "no",
+          "class" : "TextView",
+          "name" : "textview2",
+          "flex" : "WHL"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{22, 65}, {241, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "B8514DD4-50F0-4EA0-BC4C-57D98100CCE0",
+          "font_size" : 15,
+          "corner_radius" : 5,
+          "background_color" : "RGBA(0.505447,0.505447,0.505447,1.000000)",
+          "frame" : "{{103, 153}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "border_width" : 0,
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "Copy",
+          "action" : "copy_ccs",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "button2",
+          "flex" : "WB"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {285, 338}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
