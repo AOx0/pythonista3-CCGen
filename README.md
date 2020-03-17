@@ -1,8 +1,6 @@
 # PythonCCGen
 ## #Introduccion
 
-* **I’M UPDATING THE CCGEN TO AN ENGLISH VERSION** *
-
 Tools, herramienta hecha para funcionar como CCGen, Extrapolados de CCs, encriptar y des-encriptar Texto sencillo. Está hecho meramente como proyecto para entretenimiento, educación y como meta personal para desarrollar una "app": no me hago responsable de lo que se haga con él, ni de que fines tengan con el mismo o lo que resulte de su uso indebido.
 **Es solo por entretenimiento y educación**
 
