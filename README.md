@@ -1,3 +1,3 @@
 # python-CCGen
 
-Interface made for Pythonista 3 (iOS). Made for education purposes only.
+UI made for Pythonista 3 (iOS). CCGen made with Python. Made for education purposes only.
